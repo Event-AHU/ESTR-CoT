@@ -1,14 +1,17 @@
 # ESTR-CoT
 <div align="center">
-
+<img src="https://github.com/Event-AHU/ESTR-CoT/blob/main/images/Data_Generation.png" width="600">
 <img src="https://github.com/Event-AHU/ESTR-CoT/blob/main/images/CoT_STR_2model.png" width="600">
 
 </div>
+
 ### 🔥 Demo Video
 
 [▶️ Click to watch the demo](demo/ESTR_CoT_demo.mp4)
 
 ### :dvd:  Dataset Download 
+
+<img src="https://github.com/Event-AHU/ESTR-CoT/blob/main/images/CoT_dataset.png" width="600">
 
 * **Download from Baidu Drive:**
 ```
