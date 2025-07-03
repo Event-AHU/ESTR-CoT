@@ -83,7 +83,11 @@ python test.py
 
 
 ### Acknowledgement 
+We sincerely thank the contributors of the following open-source projects and datasets that made this work possible:
 
+- [**BLIVA**](https://github.com/mlpc-ucsd/BLIVA): for providing the base multimodal LLM architecture.  
+- [**WordArt**](https://github.com/xdxie/WordArt): for the WordArt dataset used in training and evaluation.  
+- [**IC15**](https://github.com/MhLiao/DB): for the ICDAR2015 dataset used in our benchmark.
 
 ### Citation 
 ```
