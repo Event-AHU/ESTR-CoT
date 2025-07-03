@@ -10,9 +10,9 @@
 [▶️ Click to watch the demo](demo/ESTR_CoT_demo.mp4)
 
 ### :dvd:  Dataset Download 
-
+<div align="center">
 <img src="https://github.com/Event-AHU/ESTR-CoT/blob/main/images/CoT_dataset.png" width="600">
-
+</div>
 * **Download from Baidu Drive:**
 ```
 URL：https://pan.baidu.com/s/1XN8MfK1cKrqaSOo3e2oD3A?pwd=2l7c     Code：2l7c
@@ -54,3 +54,8 @@ bash train.sh
 ```
 python test.py
 ```
+### Results 
+<div align="center">
+<img src="https://github.com/Event-AHU/ESTR-CoT/blob/main/images/text_recognition.png" width="600">
+<img src="https://github.com/Event-AHU/ESTR-CoT/blob/main/images/Visualization.jpg" width="600">
+</div>
