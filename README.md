@@ -13,6 +13,7 @@
 <div align="center">
 <img src="https://github.com/Event-AHU/ESTR-CoT/blob/main/images/CoT_dataset.png" width="600">
 </div>
+
 * **Download from Baidu Drive:**
 ```
 URL：https://pan.baidu.com/s/1XN8MfK1cKrqaSOo3e2oD3A?pwd=2l7c     Code：2l7c
