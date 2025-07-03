@@ -1,5 +1,8 @@
 # ESTR-CoT
 
+### 🔥 Demo Video
+
+[▶️ Click to watch the demo](demo/ESTR_CoT_demo.mp4)
 
 ### :dvd:  Dataset Download 
 
