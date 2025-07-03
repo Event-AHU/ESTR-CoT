@@ -1,7 +1,7 @@
 # ESTR-CoT
 <div align="center">
 
-<img src="https://github.com/Event-AHU/ESTR-CoT/blob/main/CoT_STR_2model.png" width="600">
+<img src="https://github.com/Event-AHU/ESTR-CoT/blob/main/images/CoT_STR_2model.png" width="600">
 
 ### 🔥 Demo Video
 
