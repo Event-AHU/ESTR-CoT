@@ -56,6 +56,7 @@ git clone https://github.com/Event-AHU/ESTR-CoT
 cd ESTR-CoT
 pip install -e .
 ```
+📌 *For the full list of dependencies, see [`environment_version.txt`](./environment_version.txt)*
 
 ### :hammer: Prepare Weight 
 Our Vicuna version model is released at [here](https://huggingface.co/mlpc-lab/BLIVA_Vicuna). Download our model weight and specify the path in the model config [here](https://github.com/Event-AHU/EventSTR/blob/384d37bececfc166d32d40c6fcd0ce64e1e16573/bliva/configs/models/bliva_vicuna7b.yaml#L8C4-L8C53) at line 8.
