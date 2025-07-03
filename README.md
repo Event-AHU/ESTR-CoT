@@ -46,8 +46,8 @@ https://www.dropbox.com/scl/fo/s31llbv7bshz2xj4mf2gm/AFP1AGDcSoY0mk-fcyfL7jw?rlk
 ### :hammer: Environment Configuration 
 1. Creating conda environment
 ```
-conda create -n bliva python=3.9
-conda activate bliva
+conda create -n estr python=3.9
+conda activate etsr
 ```
 
 2. Build from source
