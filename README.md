@@ -57,6 +57,6 @@ python test.py
 ```
 ### Results 
 <div align="center">
-<img src="https://github.com/Event-AHU/ESTR-CoT/blob/main/images/text_recognition.png" width="600">
+<img src="https://github.com/Event-AHU/ESTR-CoT/blob/main/images/text_recognition.jpg" width="600">
 <img src="https://github.com/Event-AHU/ESTR-CoT/blob/main/images/Visualization.jpg" width="600">
 </div>
