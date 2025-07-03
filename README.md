@@ -5,9 +5,13 @@
 
 </div>
 
-### 🔥 Demo Video
+### ▶️ Demo Video
 
-[▶️ Click to watch the demo](demo/ESTR_CoT_demo.mp4)
+ 
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/5b0aef1a-704b-4708-94d3-f7a25acb5854" width="100%" poster=""> </video>
+</div>
+
 
 ### :dvd:  Dataset Download 
 <div align="center">
