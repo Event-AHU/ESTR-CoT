@@ -3,7 +3,7 @@
 **ESTR-CoT: Towards Explainable and Accurate Event Stream based Scene Text Recognition with Chain-of-Thought Reasoning**, 
 Xiao Wang, Jingtao Jiang, Qiang Chen, Lan Chen*, Lin Zhu, Yaowei Wang, Yonghong Tian, Jin Tang
 arXiv Pre-Print 
-[[arXiv]()] 
+[[arXiv](https://arxiv.org/abs/2507.02200)] 
 [[Code](https://github.com/Event-AHU/ESTR-CoT/)]
 
 
