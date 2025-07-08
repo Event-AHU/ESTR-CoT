@@ -1,7 +1,7 @@
 # ESTR-CoT
 
 **ESTR-CoT: Towards Explainable and Accurate Event Stream based Scene Text Recognition with Chain-of-Thought Reasoning**, 
-Xiao Wang, Jingtao Jiang, Qiang Chen, Lan Chen*, Lin Zhu, Yaowei Wang, Yonghong Tian, Jin Tang
+Xiao Wang, Jingtao Jiang, Qiang Chen, Lan Chen*, Lin Zhu, Yaowei Wang, Yonghong Tian, Jin Tang, 
 arXiv Pre-Print 
 [[arXiv](https://arxiv.org/abs/2507.02200)] 
 [[Code](https://github.com/Event-AHU/ESTR-CoT/)]
@@ -89,9 +89,11 @@ We sincerely thank the contributors of the following open-source projects and da
 - [**WordArt**](https://github.com/xdxie/WordArt): for the WordArt dataset used in training and evaluation.  
 - [**IC15**](https://github.com/MhLiao/DB): for the ICDAR2015 dataset used in our benchmark.
 
+
+
 ### Citation 
 ```bibtex
-@article{wang2025estr,
+@article{wang2025ESTRCoT,
   title={ESTR-CoT: Towards Explainable and Accurate Event Stream based Scene Text Recognition with Chain-of-Thought Reasoning},
   author={Wang, Xiao and Jiang, Jingtao and Chen, Qiang and Chen, Lan and Zhu, Lin and Wang, Yaowei and Tian, Yonghong and Tang, Jin},
   journal={arXiv preprint arXiv:2507.02200},
