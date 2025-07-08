@@ -90,7 +90,7 @@ We sincerely thank the contributors of the following open-source projects and da
 - [**IC15**](https://github.com/MhLiao/DB): for the ICDAR2015 dataset used in our benchmark.
 
 ### Citation 
-```
+```bibtex
 @article{wang2025estr,
   title={ESTR-CoT: Towards Explainable and Accurate Event Stream based Scene Text Recognition with Chain-of-Thought Reasoning},
   author={Wang, Xiao and Jiang, Jingtao and Chen, Qiang and Chen, Lan and Zhu, Lin and Wang, Yaowei and Tian, Yonghong and Tang, Jin},
